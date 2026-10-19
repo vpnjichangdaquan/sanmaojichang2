@@ -10,7 +10,7 @@
 
 想了解三毛机场 2.0 当前的套餐和注册方式，可以从下面的入口进入：
 
-https://gw-1.smjc2.com/#/register?code=zP6hpbpa
+[三毛机场官网注册入口](https://gw-1.smjc2.com/#/register?code=zP6hpbpa)
 
 如果访问不了，可以[点击此处](https://wwaann.com/)查看其他可用机场。
 
@@ -143,6 +143,6 @@ https://gw-1.smjc2.com/#/register?code=zP6hpbpa
 
 需要查看三毛机场 2.0 当前的套餐、注册和订阅信息，可以通过以下入口进入：
 
-https://gw-1.smjc2.com/#/register?code=zP6hpbpa
+[三毛机场官网注册入口](https://gw-1.smjc2.com/#/register?code=zP6hpbpa)
 如果访问不了，可以[点击此处](https://wwaann.com/)查看其他可用机场。
 建议先核对套餐价格、流量倍率和有效期，再根据实际需求选择。
